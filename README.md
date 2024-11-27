@@ -1,2 +1,1 @@
-# crack-game
-crack game
+CRACK GAME
